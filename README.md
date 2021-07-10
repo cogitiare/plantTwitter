@@ -1,5 +1,5 @@
-# Twitter Plant (WIP)
+# Twitter Plant 
 
-This is the code for my Twitter plant bot
+This Twitter bot takes a moisture reading every 24 hours, and publishes a (sometimes) humorous tweet indicating its humidity status.
 
 Hackster.io page coming soon
